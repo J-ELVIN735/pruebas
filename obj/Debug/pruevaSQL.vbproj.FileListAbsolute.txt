@@ -1,0 +1,13 @@
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\bin\Debug\pruevaSQL.exe.config
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\bin\Debug\pruevaSQL.exe
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\bin\Debug\pruevaSQL.pdb
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\bin\Debug\pruevaSQL.xml
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.vbproj.AssemblyReference.cache
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.Resources.resources
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.vbproj.GenerateResource.cache
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.vbproj.CoreCompileInputs.cache
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.exe
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.xml
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.pdb
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.loge.resources
+C:\Users\JOELE\Documents\proyectos\pruevaSQL\obj\Debug\pruevaSQL.inicio.resources
